@@ -29,7 +29,7 @@ Este projeto é uma implementação do clássico jogo Snake (Jogo da Cobrinha) d
 
 ## Imagens e Demonstração
 
-[Link para o vídeo de demonstração](https://youtu.be/seu-link-aqui)
+[Link para o vídeo de demonstração](https://youtu.be/FhoXMTbeI5w)
 
 ## Como Compilar e Executar
 
